@@ -1,0 +1,5 @@
+castellano:7
+catalán: 8
+Inglés :7
+Nivel de Inglés: B2.2
+
